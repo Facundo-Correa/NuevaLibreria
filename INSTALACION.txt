@@ -1,0 +1,12 @@
+Requisitos:
+- Composer
+- Xampp con PHP v7.4
+- Nodejs 12.14 o 16.17.0
+
+Comandos a ejecutar:
+- composer install (para instalar las dependencia porque el proyecto ya estaba creado)
+- php artisan typicms:install
+- npm install
+- npm run dev
+- php artisan key:generate
+- php artisan config:cache
